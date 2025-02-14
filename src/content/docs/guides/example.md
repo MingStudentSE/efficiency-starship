@@ -11,3 +11,5 @@ Writing a good guide requires thinking about what your users are trying to do.
 ## Further reading
 
 - Read [about how-to guides](https://diataxis.fr/how-to-guides/) in the Diátaxis framework
+
+测试一下反链，现在我要冲一下 [test](https://www.efficiency-starship.com/test/test/) 和 [reference guide](https://www.efficiency-starship.com/reference/reference-guide/)
