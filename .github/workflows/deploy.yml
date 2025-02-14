@@ -20,4 +20,4 @@ jobs:
 
       # 3. 使用 Vercel CLI 部署到生产环境
       - name: Deploy to Vercel
-        run: vercel --token ${{ secrets.VERCEL_TOKEN }} --prod
+        run: vercel --token ${{ secrets.VERCEL_TOKEN }} --prod --yes
