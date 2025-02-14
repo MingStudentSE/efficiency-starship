@@ -1,0 +1,23 @@
+name: Deploy to Vercel
+
+on:
+  push:
+    branches:
+      - main # 替换为你希望触发部署的分支（例如 main 或 master）
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. 检出代码
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # 2. 安装 Vercel CLI
+      - name: Install Vercel CLI
+        run: npm install -g vercel
+
+      # 3. 使用 Vercel CLI 部署到生产环境
+      - name: Deploy to Vercel
+        run: vercel --token ${{ secrets.VERCEL_TOKEN }} --prod
