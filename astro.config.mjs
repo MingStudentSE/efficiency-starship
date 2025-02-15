@@ -27,6 +27,10 @@ export default defineConfig({
 					label: 'Test',
 					autogenerate: { directory: 'test' },
 				},
+				{
+					label: 'Zeena',
+					autogenerate: { directory: 'Zeena' },
+				},
 			],
 			plugins: [starlightThemeObsidian()]
 		}),
