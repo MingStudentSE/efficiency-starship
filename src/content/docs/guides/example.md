@@ -15,4 +15,4 @@ Writing a good guide requires thinking about what your users are trying to do.
 测试一下反链，现在我要冲一下 [test](../test/test) 和 [reference guide](../reference/reference-guide/)
 
 测试一下图片
-![test image](src/assets/test/brain.jpg)
+![test image](../../../assets/test/brain.jpg)
