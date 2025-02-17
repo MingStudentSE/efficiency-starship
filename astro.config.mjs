@@ -7,9 +7,12 @@ import starlightThemeObsidian from 'starlight-theme-obsidian';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'Efficiency Starship',
+			logo: {
+				src: './src/assets/logo.png',
+			},
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				github: 'https://github.com/MingStudentSE/efficiency-starship',
 			},
 			sidebar: [
 				{
