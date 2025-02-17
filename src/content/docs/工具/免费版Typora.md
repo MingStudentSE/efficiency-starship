@@ -1,5 +1,5 @@
 ---
-title: 最后一个Typora官方免费版前端下载
+title: Typora全端官方免费版
 description: A guide in my new Starlight docs site.
 ---
 
