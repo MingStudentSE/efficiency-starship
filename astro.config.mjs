@@ -28,8 +28,8 @@ export default defineConfig({
 					autogenerate: { directory: 'test' },
 				},
 				{
-					label: 'Zeena',
-					autogenerate: { directory: 'Zeena' },
+					label: '硬知识',
+					autogenerate: { directory: '硬知识' },
 				},
 				{
 					label: '工具',
