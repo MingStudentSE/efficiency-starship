@@ -11,7 +11,7 @@ description: 提供Typora全端官方免费版下载地址
 
 ### Windows 用户
 
-~~下载地址： https://github.com/iuxt/src/releases/download/2.0/typora-0-11-18.exe ~~
+~~下载地址： https://github.com/iuxt/src/releases/download/2.0/typora-0-11-18.exe~~
 
 0.11.18 现在被远程施法了，会提示过期无法使用,可以使用 0.9.96 版
 
