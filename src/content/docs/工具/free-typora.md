@@ -1,7 +1,6 @@
 ---
-title: Typora全端官方免费版
+title: Typora官方免费版
 description: 提供Typora全端官方免费版下载地址
-slug: free-typora
 ---
 
 作者：小铭

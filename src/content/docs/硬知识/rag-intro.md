@@ -1,7 +1,6 @@
 ---
-title: RAG技术【1】
+title: RAG技术
 description: 一点关于RAG技术的介绍。
-slug: rag-intro
 ---
 作者：Zeena
 
