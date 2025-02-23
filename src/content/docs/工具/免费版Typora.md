@@ -1,6 +1,7 @@
 ---
 title: Typora全端官方免费版
-description: A guide in my new Starlight docs site.
+description: 提供Typora全端官方免费版下载地址
+slug: free-typora
 ---
 
 作者：小铭
@@ -11,7 +12,7 @@ description: A guide in my new Starlight docs site.
 
 ### Windows 用户
 
-~~下载地址： https://github.com/iuxt/src/releases/download/2.0/typora-0-11-18.exe~~
+~~下载地址： https://github.com/iuxt/src/releases/download/2.0/typora-0-11-18.exe ~~
 
 0.11.18 现在被远程施法了，会提示过期无法使用,可以使用 0.9.96 版
 
@@ -61,16 +62,20 @@ Categories=Office;WordProcessor;Development;
 MimeType=text/markdown;text/x-markdown;
 ```
 
+因为很多人下载Github的资源速度特别慢，我把资源都放到百度网盘供大家下载：
+
+链接: https://pan.baidu.com/s/1UM0J69z5KrMApL3-hz69Ow?pwd=pxvj 提取码: pxvj 
+
 ## 取消自动更新
 
 打开Typora后，在左上角菜单中，点击“文件”，然后点击“偏好设置”。
 
-![alt text](../../../assets/2025/免费版Typora/image.png)
+![Typora设置](../../../assets/2025/Typora/设置.png)
 
 在“通用”中，取消掉“自动检查更新”的勾选。
 
-![alt text](../../../assets/2025/免费版Typora/image-1.png)
+![Typra取消自动更新](../../../assets/2025/Typora/取消自动更新.png)
 
 ---
 
-下载方式转载自：https://zahui.fan/posts/64b52e0d/
+下载地址章节转载自：https://zahui.fan/posts/64b52e0d/
