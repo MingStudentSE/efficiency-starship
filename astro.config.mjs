@@ -16,12 +16,12 @@ export default defineConfig({
 			},
 			sidebar: [
 				{
-					label: '硬知识',
-					autogenerate: { directory: '硬知识' },
+					label: 'Know',
+					autogenerate: { directory: 'Know' },
 				},
 				{
-					label: '工具',
-					autogenerate: { directory: '工具' },
+					label: 'Tools',
+					autogenerate: { directory: 'Tools' },
 				},
 				{
 					label: 'Guides',
